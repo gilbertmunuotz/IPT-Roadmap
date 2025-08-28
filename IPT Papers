@@ -1,0 +1,67 @@
+## **Day 1 – Block 1: Python Basics for ML/AI**
+
+**Goal:** Understand Python essentials needed for data handling, ML pipelines, and basic coding.
+
+**Core Concepts / Topics to Cover:**
+
+1. **Variables & Data Types**
+
+   * int, float, str, bool
+   * type(), casting
+
+2. **Operators**
+
+   * Arithmetic (+, -, \*, /, %, \*\*, //)
+   * Comparison (==, !=, >, <, >=, <=)
+   * Logical (and, or, not)
+
+3. **Strings**
+
+   * Basic operations: indexing, slicing
+   * Methods: `.upper()`, `.lower()`, `.split()`, `.replace()`, `.join()`
+
+4. **Lists (basic usage only, not DSA focus yet)**
+
+   * Creation, indexing, slicing
+   * Methods: `.append()`, `.extend()`, `.insert()`, `.remove()`, `.pop()`
+   * Iterating through lists (for loops)
+
+5. **Tuples & Sets**
+
+   * Tuples: immutable sequences
+   * Sets: uniqueness, set operations (`union`, `intersection`, `difference`)
+
+6. **Dictionaries**
+
+   * Key-value pairs
+   * Access, update, delete items
+   * Iterating through dicts: keys(), values(), items()
+
+7. **Conditionals & Loops**
+
+   * `if`, `elif`, `else`
+   * `for` loops, `while` loops, `break`, `continue`
+
+8. **Functions**
+
+   * Defining functions (`def`)
+   * Arguments, return values
+   * Default arguments, keyword arguments
+
+9. **Importing Libraries**
+
+   * `import`, `from … import …`, `as` keyword
+   * Example: `import numpy as np`, `import pandas as pd`
+
+10. **Basic Input/Output**
+
+    * `print()` and formatted strings (f-strings)
+    * `input()` for interactive scripts
+
+11. **List Comprehensions** *(very useful for ML pipelines)*
+
+    * `[x**2 for x in range(10) if x % 2 == 0]`
+
+12. **Error Handling (optional but nice)**
+
+    * try/except blocks
