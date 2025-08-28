@@ -299,12 +299,12 @@
 # print(filtered_words)
 
 # ERROR HANDLING
-# try:
-#     x = int(input("Enter Number: "))
-#     y = 10/x
-# except ZeroDivisionError:
-#     print("Cannot divide by zero!")
-# else:
-#     print(f"Answer is: {y}")
-# finally:
-#     print("Execution finished")
+try:
+    x = int(input("Enter Number: "))
+    y = 10/x
+except ZeroDivisionError:
+    print("Cannot divide by zero!")
+else:
+    print(f"Answer is: {y}")
+finally:
+    print("Execution finished")
