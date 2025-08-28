@@ -222,16 +222,16 @@
 
 # CONDITIONALS STATEMENTS
 #  if,elif,else
-# grade = 70
+grade = 70
 
-# if grade >= 75:
-#     print("Grade A")
-# elif grade >= 80:
-#     print("Grade B")
-# elif grade >= 65:
-#     print("Grade C")
-# else:
-#     print("Grade F")
+if grade >= 75:
+    print("Grade A")
+elif grade >= 80:
+    print("Grade B")
+elif grade >= 65:
+    print("Grade C")
+else:
+    print("Grade F")
 
 #  for loops
 # Loop through a list
@@ -274,13 +274,13 @@
 # import numpy as np
 
 # FORMATTED STRINGS
-# name = "Alice"
-# grade = 80
+name = "Alice"
+grade = 80
 
-# print(f"Student: {name}, Grade: {grade}")
+print(f"Student: {name}, Grade: {grade}")
 
-# username = input("Enter Username: ")
-# print(f"Welcome {username}")
+username = input("Enter Username: ")
+print(f"Welcome {username}")
 
 # LIST COMPREHENSION
 # This is the general syntax 👉 [expression for item in iterable if condition]
@@ -294,9 +294,9 @@
 # odd = [e for e in range(0, 100) if e % 2 != 0]
 # print(f"These are odd Numbers, {odd}")
 
-# words = ["ML", "Python", "AI", "Data"]
-# filtered_words = [w for w in words if len(w) >= 3]
-# print(filtered_words)
+words = ["ML", "Python", "AI", "Data"]
+filtered_words = [w for w in words if len(w) >= 3]
+print(filtered_words)
 
 # ERROR HANDLING
 try:
