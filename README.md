@@ -1,4 +1,4 @@
-# 📊 Ml Engineer Journey – IPT Studies
+# 📊 ML Engineer Journey – IPT Studies
 
 Welcome to my personal roadmap and progress tracker for becoming a **Ml Engineer**.  
 This repository documents my daily learning, practice, and projects as part of my **Industrial Practical Training (IPT)** August 2025 and self-study journey.
