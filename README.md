@@ -19,7 +19,7 @@ This repository documents my daily learning, practice, and projects as part of m
 Each day of my learning has its own branch:
 
 - `Day-1` → [IPT Papers & Day 1 Notes]
-- `Day-2` → (to be added…)
+- `Day-2` → (IPT papers & Day 2 Notes)
 - `Day-3` → (to be added…)
 
 The `main` branch contains this README file.
