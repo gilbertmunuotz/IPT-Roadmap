@@ -1,6 +1,6 @@
-# 📊 Data Science Journey – IPT Studies
+# 📊 ML Engineer Journey – IPT Studies
 
-Welcome to my personal roadmap and progress tracker for becoming a **Data Scientist**.  
+Welcome to my personal roadmap and progress tracker for becoming a **ML Engineer**.  
 This repository documents my daily learning, practice, and projects as part of my **Industrial Practical Training (IPT)** August 2025 and self-study journey.
 
 ## 🚀 About This Repo
